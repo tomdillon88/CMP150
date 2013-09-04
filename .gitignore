@@ -1,0 +1,7 @@
+Game Programming/*.csproj
+Game Programming/*.sln
+Game Programming/*.unityproj
+Game Programming/*.meta
+Game Programming/Library/*
+Game Programming/Temp/*
+Game Programming/obj/*
